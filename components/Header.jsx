@@ -35,7 +35,7 @@ const Header = () => {
               Features
             </Link>
             <Link
-              href="#hot-it-works"
+              href="#how-it-works"
               className="text-sm font-medium hover:text-green-600 transition"
             >
               How It Works
